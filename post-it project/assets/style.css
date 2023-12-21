@@ -24,7 +24,7 @@
     animation: slap-in 1s ease-out;
 }
 
-@keyframes slap-in {
+@keyframes pop-in {
     0% {opacity: 0; transform: translateZ(500px);}
     50% {opacity: 0; transform: translateZ(100px);}
     100% {opacity: 1; transform: translateZ(0px);}
